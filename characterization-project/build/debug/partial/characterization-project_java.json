@@ -1,0 +1,11 @@
+[
+  {
+    "name": "characterization-project (in project characterization-project)",
+    "file": "/Users/burugula/Documents/Etc/FRC/2020/Software/Launcher_Neos_char/characterization-project/build/libs/characterization-project.jar",
+    "extensions": [
+      "/Users/burugula/Documents/Etc/FRC/2020/Software/Launcher_Neos_char/characterization-project/build/tmp/expandedArchives/halsim_gui-2020.1.2-osxx86-64.zip_236c8caadb72eb113affb393cbc87171/osx/x86-64/shared/libhalsim_gui.dylib"
+    ],
+    "librarydir": "/Users/burugula/Documents/Etc/FRC/2020/Software/Launcher_Neos_char/characterization-project/build/tmp/jniExtractDir",
+    "mainclass": "dc.Main"
+  }
+]
